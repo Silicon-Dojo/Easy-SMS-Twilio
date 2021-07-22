@@ -2,6 +2,8 @@
 <figure class="entry-thumbnail">
 <img src="http://www.silicondojo.com/wp-content/uploads/2021/06/22Easy22-SMS-with-Twilio-678x381.jpg" alt="" title="Easy SMS with Twilio">
 </figure>
+	
+	
 https://www.youtube.com/watch?v=ZAho9cq6plg
 
 
