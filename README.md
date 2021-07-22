@@ -137,7 +137,7 @@ $pic = "https://media.vanityfair.com/photos/59653e9a3a5a726a87a6302d/master/pass
 
 header('Content-Type: text/xml');
 ?&gt;
-
+ 
 &lt;Response&gt;
 	&lt;Message&gt;
 	Hello &lt;?php echo $number ?&gt;.

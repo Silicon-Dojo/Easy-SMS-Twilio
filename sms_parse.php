@@ -8,12 +8,12 @@ header('Content-Type: text/xml');
 ?>
 
 <Response>
+
 	<Message>
 	Hello <?php echo $number ?>.
 	You said <?php echo $body ?>
 	<?php file_put_contents("message.php", $body); ?>
 	<Media><?php echo $pic ?></Media>
 	</Message>
-
 
 </Response>
