@@ -2,7 +2,9 @@
 <figure class="entry-thumbnail">
 <img src="http://www.silicondojo.com/wp-content/uploads/2021/06/22Easy22-SMS-with-Twilio-678x381.jpg" alt="" title="Easy SMS with Twilio">
 </figure>
-<p><iframe loading="lazy" width="700" height="400" src="https://www.youtube.com/embed/ZAho9cq6plg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+	
+	
+https://www.youtube.com/watch?v=ZAho9cq6plg
 
 
 <p>Twilio allows you to send SMS to both send and receive messages from users with nothing more than a flip phone. SMS doesn’t require configurations the way wifi does, and generally works almost anywhere. Twilio allows you to create simple, but powerful, scripts for everything from notifications to full fledged administration.</p>
